@@ -2,5 +2,6 @@
 - Team Members: Umang Chaudhry & Alfred Prah
 
 ## Project details:
-- Dataset: Disneyland Reviews [https://www.kaggle.com/arushchillar/disneyland-reviews]
-In this project, we explore Big Data tools and techniques to (large) text data. 
+- Dataset: [Disneyland Reviews](https://www.kaggle.com/arushchillar/disneyland-reviews)
+- Motivation: Use big data tools to examine visitors' experiences at three different parks and determine which park offers the best experience for visitors. 
+- Tools: PySpark, Google Colab, Pandas, Matplotlib
